@@ -10,4 +10,17 @@ public class TestDemo {
 		System.out.println("Demo GitHub");
 		
 	}
+	// new code 
+	public void add ( int a, int b) {
+		
+		System.out.println(a + b);
+	}
+	
+	// more code 
+	 
+public void substract ( int a, int b) {
+		
+		System.out.println(a - b);
+
+}
 }
