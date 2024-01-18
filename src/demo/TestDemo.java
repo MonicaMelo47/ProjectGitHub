@@ -24,6 +24,13 @@ public void substract ( int a, int b) {
 
 }
 
+//Adding divide ()from Cindy Beltran
+public static void divide ( int x, int y) {
+	
+	System.out.println(x/y);
+	
+}
+
 // new comment 
 
 	//This is coming from gitHub
